@@ -1,2 +1,7 @@
 phidata
 python-dotenv
+groq
+sqlalchemy
+fastapi #for setuping playground
+python-multipart
+uvicorn
